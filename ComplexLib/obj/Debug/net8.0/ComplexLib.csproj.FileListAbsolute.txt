@@ -1,0 +1,11 @@
+C:\4AHINF\POS\SlnComplex\ComplexLib\obj\Debug\net8.0\ComplexLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\4AHINF\POS\SlnComplex\ComplexLib\obj\Debug\net8.0\ComplexLib.AssemblyInfoInputs.cache
+C:\4AHINF\POS\SlnComplex\ComplexLib\obj\Debug\net8.0\ComplexLib.AssemblyInfo.cs
+C:\4AHINF\POS\SlnComplex\ComplexLib\obj\Debug\net8.0\ComplexLib.csproj.CoreCompileInputs.cache
+C:\4AHINF\POS\SlnComplex\ComplexLib\bin\Debug\net8.0\ComplexLib.deps.json
+C:\4AHINF\POS\SlnComplex\ComplexLib\bin\Debug\net8.0\ComplexLib.dll
+C:\4AHINF\POS\SlnComplex\ComplexLib\bin\Debug\net8.0\ComplexLib.pdb
+C:\4AHINF\POS\SlnComplex\ComplexLib\obj\Debug\net8.0\ComplexLib.dll
+C:\4AHINF\POS\SlnComplex\ComplexLib\obj\Debug\net8.0\refint\ComplexLib.dll
+C:\4AHINF\POS\SlnComplex\ComplexLib\obj\Debug\net8.0\ComplexLib.pdb
+C:\4AHINF\POS\SlnComplex\ComplexLib\obj\Debug\net8.0\ref\ComplexLib.dll
